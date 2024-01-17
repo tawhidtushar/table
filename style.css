@@ -1,0 +1,31 @@
+body{
+	width: 100%;
+	
+}
+.box{
+	width: 50%;
+    text-align: left;
+	margin: 0 auto;
+	font-size: 20px;
+	
+}
+.box table{
+	margin: 0 auto;
+	background: green;
+	width: 100%;
+	font-family: sans-serif;
+	border: 1px black solid;
+
+}	
+ tr{
+	background-color: cyan;
+	font-size: 20px;
+
+}
+th{
+	background-color: green;
+	font-size: 25px;
+}
+h1{
+    margin: 0;
+}
